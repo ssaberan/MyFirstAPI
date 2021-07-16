@@ -6,7 +6,9 @@
    "type": "module",
    "scripts": {
       "start:dev": "nodemon src/app/index.js",
-      "start": "node src/app/index.js"
+      "start": "node src/app/index.js",
+      "prettier:check": "npx prettier --check .",
+      "prettier:write": "npx prettier --write ."
    },
    "keywords": [],
    "author": "",
