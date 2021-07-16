@@ -1,7 +1,7 @@
-import { helloWorldRouter } from "../routes/helloWorld.js";
+import { liveCheckRouter } from "../routes/liveCheck.js";
 
 const registerRoutes = (app) => {
-   app.use("/api/", helloWorldRouter);
+   app.use("/api", liveCheckRouter);
 };
 
 export default registerRoutes;

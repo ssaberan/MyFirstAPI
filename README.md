@@ -16,4 +16,8 @@ Start the dev server
 npm run start:dev
 ```
 
-Then hit the endpoint `localhost:4000/api/helloWorld` to see it working. It should return "Hello world!".
+Then hit the endpoint `localhost:4000/api/liveCheck` to see it working. It should return "The API is live!".
+
+## Production endpoint
+
+This API is currently deployed to `https://ss-my-first-api.herokuapp.com`. You can check if it is live by hitting the endpoint, `https://ss-my-first-api.herokuapp.com/api/liveCheck`.
