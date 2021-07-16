@@ -10,10 +10,10 @@ Install the necessary dependencies (if not already installed)
 npm i
 ```
 
-Start the server
+Start the dev server
 
 ```
-npm run start
+npm run start:dev
 ```
 
 Then hit the endpoint `localhost:4000/api/helloWorld` to see it working. It should return "Hello world!".
