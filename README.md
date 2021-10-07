@@ -1,4 +1,4 @@
-# My First API
+# My Personal API
 
 Not sure yet what I want to make this do.
 
