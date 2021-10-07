@@ -20,4 +20,4 @@ Then hit the endpoint `localhost:4000/api/liveCheck` to see it working. It shoul
 
 ## Production endpoint
 
-This API is currently deployed to `https://ss-my-first-api.herokuapp.com`. You can check if it is live by hitting the endpoint, `https://ss-my-first-api.herokuapp.com/api/liveCheck`.
+This API is currently deployed to `https://ss-personal-api.herokuapp.com`. You can check if it is live by hitting the endpoint, `https://ss-personal-api.herokuapp.com/api/liveCheck`.
