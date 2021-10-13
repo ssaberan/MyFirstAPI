@@ -1,3 +1,6 @@
+import * as fs from "fs";
+
 export const sendResume = (req, res) => {
-   res.download("./resumes/Soroush_Saberan.pdf");
+   const resume = fs.readFileSync("./resumes/resumeV1.txt").toString();
+   res.json({ resume });
 };
