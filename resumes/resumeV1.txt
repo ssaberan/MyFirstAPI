@@ -258,7 +258,6 @@
          }
          li {
             color: #000000;
-            font-size: 11pt;
             font-family: "Arial";
          }
          p {
