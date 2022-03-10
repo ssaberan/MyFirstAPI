@@ -3,68 +3,6 @@
       <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
       <style type="text/css">
          @import url("https://themes.googleusercontent.com/fonts/css?kit=RFda8w1V0eDZheqfcyQ4EGb3DKsRMD34dqg1gT8Z-p6isjtAVhoKeKPV_uAAgBOSk3k702ZOKiLJc3WVjuplzPesZW2xOQ-xsNqO47m55DA");
-         .lst-kix_7l3q4vkrhu4w-2 > li:before {
-            content: "\0025a0  ";
-         }
-         .lst-kix_7l3q4vkrhu4w-0 > li:before {
-            content: "\0025cf  ";
-         }
-         .lst-kix_7l3q4vkrhu4w-4 > li:before {
-            content: "\0025cb  ";
-         }
-         .lst-kix_7l3q4vkrhu4w-1 > li:before {
-            content: "\0025cb  ";
-         }
-         .lst-kix_7l3q4vkrhu4w-5 > li:before {
-            content: "\0025a0  ";
-         }
-         .lst-kix_7l3q4vkrhu4w-6 > li:before {
-            content: "\0025cf  ";
-         }
-         ul.lst-kix_7l3q4vkrhu4w-0 {
-            list-style-type: none;
-         }
-         ul.lst-kix_7l3q4vkrhu4w-1 {
-            list-style-type: none;
-         }
-         ul.lst-kix_7l3q4vkrhu4w-2 {
-            list-style-type: none;
-         }
-         ul.lst-kix_7l3q4vkrhu4w-3 {
-            list-style-type: none;
-         }
-         .lst-kix_7l3q4vkrhu4w-7 > li:before {
-            content: "\0025cb  ";
-         }
-         ul.lst-kix_7l3q4vkrhu4w-4 {
-            list-style-type: none;
-         }
-         ul.lst-kix_7l3q4vkrhu4w-5 {
-            list-style-type: none;
-         }
-         ul.lst-kix_7l3q4vkrhu4w-6 {
-            list-style-type: none;
-         }
-         ul.lst-kix_7l3q4vkrhu4w-7 {
-            list-style-type: none;
-         }
-         ul.lst-kix_7l3q4vkrhu4w-8 {
-            list-style-type: none;
-         }
-         .lst-kix_7l3q4vkrhu4w-8 > li:before {
-            content: "\0025a0  ";
-         }
-         .lst-kix_7l3q4vkrhu4w-3 > li:before {
-            content: "\0025cf  ";
-         }
-         ol {
-            margin: 0;
-            padding: 0;
-         }
-         table td,
-         table th {
-            padding: 0;
-         }
          .c12 {
             -webkit-text-decoration-skip: none;
             color: #1155cc;
@@ -85,15 +23,6 @@
             font-family: "Open Sans";
             font-style: normal;
          }
-         .c15 {
-            color: #000000;
-            font-weight: 400;
-            text-decoration: none;
-            vertical-align: baseline;
-            font-size: 11pt;
-            font-family: "Open Sans";
-            font-style: normal;
-         }
          .c13 {
             color: #000000;
             font-weight: 700;
@@ -110,15 +39,6 @@
             vertical-align: baseline;
             font-size: 10pt;
             font-family: "Merriweather";
-            font-style: normal;
-         }
-         .c9 {
-            color: #000000;
-            font-weight: 400;
-            text-decoration: none;
-            vertical-align: baseline;
-            font-size: 11pt;
-            font-family: "Arial";
             font-style: normal;
          }
          .c0 {
@@ -203,12 +123,6 @@
             line-height: 1;
             text-align: left;
          }
-         .c25 {
-            -webkit-text-decoration-skip: none;
-            color: #1155cc;
-            text-decoration: underline;
-            text-decoration-skip-ink: none;
-         }
          .c21 {
             font-size: 10pt;
             font-family: "Open Sans";
@@ -219,18 +133,9 @@
             font-family: "Merriweather";
             font-weight: 400;
          }
-         .c10 {
-            background-color: #ffffff;
-            max-width: 540pt;
-            padding: 36pt 36pt 36pt 36pt;
-         }
          .c19 {
             font-weight: 400;
             font-family: "Merriweather";
-         }
-         .c6 {
-            color: inherit;
-            text-decoration: inherit;
          }
          .c17 {
             font-weight: 700;
@@ -238,33 +143,6 @@
          }
          .c18 {
             height: 11pt;
-         }
-         .c24 {
-            font-size: 11pt;
-         }
-         .title {
-            padding-top: 0pt;
-            color: #000000;
-            font-size: 26pt;
-            padding-bottom: 3pt;
-            font-family: "Arial";
-            line-height: 1.15;
-            page-break-after: avoid;
-            orphans: 2;
-            widows: 2;
-            text-align: left;
-         }
-         .subtitle {
-            padding-top: 0pt;
-            color: #666666;
-            font-size: 15pt;
-            padding-bottom: 16pt;
-            font-family: "Arial";
-            line-height: 1.15;
-            page-break-after: avoid;
-            orphans: 2;
-            widows: 2;
-            text-align: left;
          }
          li {
             color: #000000;
@@ -275,79 +153,6 @@
             color: #000000;
             font-size: 11pt;
             font-family: "Arial";
-         }
-         h1 {
-            padding-top: 20pt;
-            color: #000000;
-            font-size: 20pt;
-            padding-bottom: 6pt;
-            font-family: "Arial";
-            line-height: 1.15;
-            page-break-after: avoid;
-            orphans: 2;
-            widows: 2;
-            text-align: left;
-         }
-         h2 {
-            padding-top: 18pt;
-            color: #000000;
-            font-size: 16pt;
-            padding-bottom: 6pt;
-            font-family: "Arial";
-            line-height: 1.15;
-            page-break-after: avoid;
-            orphans: 2;
-            widows: 2;
-            text-align: left;
-         }
-         h3 {
-            padding-top: 16pt;
-            color: #434343;
-            font-size: 14pt;
-            padding-bottom: 4pt;
-            font-family: "Arial";
-            line-height: 1.15;
-            page-break-after: avoid;
-            orphans: 2;
-            widows: 2;
-            text-align: left;
-         }
-         h4 {
-            padding-top: 14pt;
-            color: #666666;
-            font-size: 12pt;
-            padding-bottom: 4pt;
-            font-family: "Arial";
-            line-height: 1.15;
-            page-break-after: avoid;
-            orphans: 2;
-            widows: 2;
-            text-align: left;
-         }
-         h5 {
-            padding-top: 12pt;
-            color: #666666;
-            font-size: 11pt;
-            padding-bottom: 4pt;
-            font-family: "Arial";
-            line-height: 1.15;
-            page-break-after: avoid;
-            orphans: 2;
-            widows: 2;
-            text-align: left;
-         }
-         h6 {
-            padding-top: 12pt;
-            color: #666666;
-            font-size: 11pt;
-            padding-bottom: 4pt;
-            font-family: "Arial";
-            line-height: 1.15;
-            page-break-after: avoid;
-            font-style: italic;
-            orphans: 2;
-            widows: 2;
-            text-align: left;
          }
       </style>
    </head>
