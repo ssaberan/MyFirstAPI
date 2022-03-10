@@ -66,6 +66,17 @@
             padding: 0;
          }
          .c12 {
+            -webkit-text-decoration-skip: none;
+            color: #1155cc;
+            font-weight: 700;
+            text-decoration: underline;
+            vertical-align: baseline;
+            text-decoration-skip-ink: none;
+            font-size: 12pt;
+            font-family: "Open Sans";
+            font-style: normal;
+         }
+         .c16 {
             color: #000000;
             font-weight: 400;
             text-decoration: none;
@@ -83,16 +94,25 @@
             font-family: "Open Sans";
             font-style: normal;
          }
-         .c4 {
+         .c13 {
             color: #000000;
-            font-weight: 400;
+            font-weight: 700;
             text-decoration: none;
             vertical-align: baseline;
             font-size: 11pt;
             font-family: "Merriweather";
             font-style: normal;
          }
-         .c18 {
+         .c4 {
+            color: #000000;
+            font-weight: 400;
+            text-decoration: none;
+            vertical-align: baseline;
+            font-size: 10pt;
+            font-family: "Merriweather";
+            font-style: normal;
+         }
+         .c9 {
             color: #000000;
             font-weight: 400;
             text-decoration: none;
@@ -102,123 +122,121 @@
             font-style: normal;
          }
          .c0 {
+            padding-top: 0pt;
+            padding-bottom: 0pt;
+            line-height: 1;
+            orphans: 2;
+            widows: 2;
+            text-align: left;
+            height: 11pt;
+         }
+         .c2 {
             color: #000000;
             font-weight: 400;
-            text-decoration: none;
-            vertical-align: baseline;
-            font-size: 10pt;
-            font-family: "Merriweather";
-            font-style: normal;
-         }
-         .c1 {
-            color: #000000;
-            font-weight: 700;
             text-decoration: none;
             vertical-align: baseline;
             font-size: 11pt;
             font-family: "Merriweather";
             font-style: normal;
          }
-         .c23 {
-            padding-top: 5pt;
-            padding-bottom: 5pt;
+         .c3 {
+            padding-top: 0pt;
+            padding-bottom: 0pt;
             line-height: 1;
-            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
             text-align: left;
          }
+         .c11 {
+            -webkit-text-decoration-skip: none;
+            color: #1155cc;
+            font-weight: 400;
+            text-decoration: underline;
+            text-decoration-skip-ink: none;
+            font-family: "Merriweather";
+         }
          .c22 {
+            padding-top: 0pt;
+            padding-bottom: 0pt;
+            line-height: 1;
+            orphans: 2;
+            widows: 2;
+            text-align: center;
+         }
+         .c8 {
+            background-color: #ffffff;
+            font-size: 10pt;
+            font-family: "Open Sans";
+            color: #232629;
+            font-weight: 400;
+         }
+         .c20 {
             color: #000000;
             text-decoration: none;
             vertical-align: baseline;
             font-size: 36pt;
             font-style: normal;
          }
-         .c16 {
-            font-weight: 700;
-            vertical-align: baseline;
-            font-size: 12pt;
-            font-family: "Open Sans";
-            font-style: normal;
+         .c5 {
+            padding-top: 5pt;
+            padding-bottom: 5pt;
+            line-height: 1;
+            page-break-after: avoid;
+            text-align: left;
          }
-         .c25 {
+         .c23 {
             color: #000000;
             text-decoration: none;
             vertical-align: baseline;
             font-size: 12pt;
             font-style: italic;
          }
-         .c5 {
-            padding-top: 0pt;
-            padding-bottom: 0pt;
-            line-height: 1;
-            text-align: left;
-            height: 11pt;
-         }
-         .c21 {
-            padding-top: 0pt;
-            padding-bottom: 0pt;
-            line-height: 1;
-            text-align: center;
-         }
-         .c9 {
+         .c7 {
             padding-top: 0pt;
             padding-bottom: 0pt;
             line-height: 1;
             text-align: left;
          }
-         .c2 {
+         .c1 {
             padding-top: 6pt;
             padding-bottom: 0pt;
             line-height: 1;
             text-align: left;
          }
-         .c13 {
+         .c25 {
             -webkit-text-decoration-skip: none;
             color: #1155cc;
             text-decoration: underline;
             text-decoration-skip-ink: none;
          }
-         .c10 {
+         .c21 {
+            font-size: 10pt;
+            font-family: "Open Sans";
+            font-weight: 400;
+         }
+         .c14 {
             font-size: 10pt;
             font-family: "Merriweather";
             font-weight: 400;
          }
-         .c14 {
-            font-weight: 400;
-            font-size: 10pt;
-            font-family: "Open Sans";
-         }
-         .c17 {
+         .c10 {
             background-color: #ffffff;
             max-width: 540pt;
             padding: 36pt 36pt 36pt 36pt;
          }
-         .c7 {
-            font-size: 11pt;
-            font-family: "Merriweather";
+         .c19 {
             font-weight: 400;
+            font-family: "Merriweather";
          }
-         .c3 {
+         .c6 {
             color: inherit;
             text-decoration: inherit;
          }
-         .c8 {
-            orphans: 2;
-            widows: 2;
-         }
-         .c6 {
+         .c17 {
             font-weight: 700;
             font-family: "Merriweather";
          }
-         .c19 {
-            background-color: #ffffff;
-            color: #232629;
-         }
-         .c11 {
-            font-weight: 400;
-            font-family: "Merriweather";
-         }
-         .c20 {
+         .c18 {
             height: 11pt;
          }
          .c24 {
@@ -333,72 +351,70 @@
          }
       </style>
    </head>
-   <body class="c17">
-      <p class="c21 c8"><span class="c6 c22">Soroush Saberan</span></p>
-      <p class="c8 c21"><span class="c12">Full-Stack Software Engineer / Developer</span></p>
-      <p class="c21 c8"><span class="c14">Email: ssaberan96@gmail.com </span><span class="c14 c19">&#9679;</span><span class="c14">&nbsp;Phone Number: (747) 254-6130 </span><span class="c14 c19">&#9679; Jersey City, New Jersey</span></p>
-      <p class="c21 c8">
-         <span class="c13 c14"><a class="c3" href="https://www.google.com/url?q=http://ssaberan.github.io/&amp;sa=D&amp;source=editors&amp;ust=1646808707977350&amp;usg=AOvVaw1Z1PGMDMRjii3-upmRIk7q">http://ssaberan.github.io/</a></span>
+   <body class="c10">
+      <p class="c22"><span class="c17 c20">Soroush Saberan</span></p>
+      <p class="c22"><span class="c16">Machine Learning Engineer</span></p>
+      <p class="c22"><span class="c21">Email: ssaberan96@gmail.com </span><span class="c8">&#9679;</span><span class="c21">&nbsp;Phone Number: (747) 254-6130 </span><span class="c8">&#9679; Jersey City, New Jersey</span></p>
+      <p class="c22">
+         <span class="c21 c25"><a class="c6" href="https://www.google.com/url?q=http://ssaberan.github.io/&amp;sa=D&amp;source=editors&amp;ust=1646890624477299&amp;usg=AOvVaw0xGkTWEj15Wm_ij_t4brC8">http://ssaberan.github.io/</a></span>
       </p>
-      <p class="c5 c8"><span class="c0"></span></p>
-      <p class="c9 c8"><span class="c16 c13">Skills</span></p>
-      <p class="c5 c8"><span class="c15"></span></p>
-      <p class="c9 c8"><span class="c1">Primary</span></p>
-      <p class="c9 c8"><span class="c0">JavaScript (ES6 and newer), TypeScript, React, Node.js, Express, WebdriverIO, Selenium, Jenkins, Jest, Jasmine, React Testing Library, SuperTest</span></p>
-      <p class="c5 c8"><span class="c0"></span></p>
-      <p class="c9 c8"><span class="c1">Secondary</span></p>
-      <p class="c9 c8"><span class="c0">HTML, CSS, Python, Java, Matlab</span></p>
-      <p class="c5 c8"><span class="c12"></span></p>
-      <p class="c9 c8"><span class="c13 c16">Experience</span></p>
-      <p class="c5 c8"><span class="c4"></span></p>
-      <p class="c9 c8"><span class="c6">American Express, </span><span class="c4">New York City, New York &mdash; Machine Learning Engineer</span></p>
-      <h3 class="c23" id="h.b8om651zuxm4"><span class="c0">MARCH 2022 - PRESENT</span></h3>
-      <p class="c2">
-         <span class="c10">
+      <p class="c0"><span class="c4"></span></p>
+      <p class="c3"><span class="c12">Skills</span></p>
+      <p class="c0"><span class="c15"></span></p>
+      <p class="c3"><span class="c13">Primary</span></p>
+      <p class="c3"><span class="c4">JavaScript (ES6 and newer), TypeScript, React, Node.js, Express, WebdriverIO, Selenium, Jenkins, Jest, Jasmine, React Testing Library, SuperTest</span></p>
+      <p class="c0"><span class="c4"></span></p>
+      <p class="c3"><span class="c13">Secondary</span></p>
+      <p class="c3"><span class="c4">HTML, CSS, Python, Java, Matlab</span></p>
+      <p class="c0"><span class="c16"></span></p>
+      <p class="c3"><span class="c12">Experience</span></p>
+      <p class="c0"><span class="c2"></span></p>
+      <p class="c3"><span class="c17">American Express, </span><span class="c2">New York City, New York &mdash; Machine Learning Engineer</span></p>
+      <h3 class="c5" id="h.b8om651zuxm4"><span class="c4">MARCH 2022 - PRESENT</span></h3>
+      <p class="c1">
+         <span class="c14">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
             consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
          </span>
       </p>
-      <p class="c5 c8"><span class="c1"></span></p>
-      <p class="c9 c8"><span class="c6 c24">American Express, </span><span class="c7">New York City, New York &mdash; Software Engineer</span></p>
-      <h3 class="c23" id="h.12esuwmldqlu"><span class="c0">AUGUST 2019 - MARCH 2022</span></h3>
-      <p class="c2">
-         <span class="c0">
+      <p class="c0"><span class="c13"></span></p>
+      <p class="c3"><span class="c17 c24">American Express, </span><span class="c19 c24">New York City, New York &mdash; Software Engineer</span></p>
+      <h3 class="c5" id="h.12esuwmldqlu"><span class="c4">AUGUST 2019 - MARCH 2022</span></h3>
+      <p class="c1">
+         <span class="c4">
             Full-stack software engineer working on a variety of web products. Working with Javascript plus React on the front-end, and Typescript plus Express on the back-end. Using Selenium, WebdriverIO, and Jasmine for cross-browser
             automation tests and Jenkins for our CI/CD and deployment processes. Using Jest and React Testing Library for unit tests, as well as the SuperTest npm module for API tests. Promoted from software engineer III to software
             engineer II.
          </span>
       </p>
-      <p class="c2 c20"><span class="c0"></span></p>
-      <p class="c9"><span class="c16 c13">EDUCATION</span></p>
-      <p class="c5"><span class="c15"></span></p>
-      <p class="c9"><span class="c6">University of California, San Diego</span><span class="c4">&nbsp;&mdash; B.S. in Mathematics and Computer Science</span></p>
-      <p class="c9"><span class="c0">MARCH 2019</span></p>
-      <p class="c5"><span class="c12"></span></p>
-      <p class="c9"><span class="c16 c13">PROJECTS</span></p>
-      <p class="c5"><span class="c4"></span></p>
-      <p class="c9">
-         <span class="c6">Personal Website </span><span class="c11">&mdash; </span>
-         <span class="c11 c13">
-            <a class="c3" href="https://www.google.com/url?q=https://github.com/ssaberan/PersonalWebsite&amp;sa=D&amp;source=editors&amp;ust=1646808707981520&amp;usg=AOvVaw3L5PgL-s3VMQe28FTJAoKQ">
+      <p class="c1 c18"><span class="c4"></span></p>
+      <p class="c7"><span class="c12">EDUCATION</span></p>
+      <p class="c7 c18"><span class="c15"></span></p>
+      <p class="c7"><span class="c17">University of California, San Diego</span><span class="c2">&nbsp;&mdash; B.S. in Mathematics and Computer Science</span></p>
+      <p class="c7"><span class="c4">MARCH 2019</span></p>
+      <p class="c7 c18"><span class="c16"></span></p>
+      <p class="c7"><span class="c12">PROJECTS</span></p>
+      <p class="c7 c18"><span class="c2"></span></p>
+      <p class="c7">
+         <span class="c17">Personal Website </span><span class="c19">&mdash; </span>
+         <span class="c11">
+            <a class="c6" href="https://www.google.com/url?q=https://github.com/ssaberan/PersonalWebsite&amp;sa=D&amp;source=editors&amp;ust=1646890624480926&amp;usg=AOvVaw2LpVoqvLlmZVLQEGYREOzq">
                https://github.com/ssaberan/PersonalWebsite
             </a>
          </span>
-         <span class="c4">&nbsp;(WIP)</span>
+         <span class="c2">&nbsp;(WIP)</span>
       </p>
-      <p class="c9">
-         <span class="c0">
-            Written mostly in React. Hosted on Github Pages. Fully responsive and accessible. Features a blog, and a contact form, which handles user input validation using Formik and can be used to send emails to me.
+      <p class="c7">
+         <span class="c4">Written mostly in React. Hosted on Github Pages. Fully responsive and accessible. Features a blog, and a contact form, which handles user input validation using Formik and can be used to send emails to me.</span>
+      </p>
+      <p class="c7 c18"><span class="c4"></span></p>
+      <p class="c7">
+         <span class="c17">Personal API </span><span class="c19">&mdash; </span>
+         <span class="c11">
+            <a class="c6" href="https://www.google.com/url?q=https://github.com/ssaberan/PersonalAPI&amp;sa=D&amp;source=editors&amp;ust=1646890624481634&amp;usg=AOvVaw2qp1tVzZ8HwfNU_N3NTFvU">https://github.com/ssaberan/PersonalAPI</a>
          </span>
+         <span class="c14">&nbsp;</span><span class="c19">(WIP)</span>
       </p>
-      <p class="c5"><span class="c0"></span></p>
-      <p class="c9">
-         <span class="c6">Personal API </span><span class="c11">&mdash; </span>
-         <span class="c13 c11">
-            <a class="c3" href="https://www.google.com/url?q=https://github.com/ssaberan/PersonalAPI&amp;sa=D&amp;source=editors&amp;ust=1646808707982252&amp;usg=AOvVaw2tw1vmlbp8us-CvLB-XcnS">https://github.com/ssaberan/PersonalAPI</a>
-         </span>
-         <span class="c10">&nbsp;</span><span class="c11">(WIP)</span>
-      </p>
-      <p class="c9"><span class="c11">Written using Express. Hosted on Heroku and linked to the Github repository to allow for automatic deployments. Allows me to fetch resume and blog post data for my personal website. </span></p>
+      <p class="c7"><span class="c19">Written using Express. Hosted on Heroku and linked to the Github repository to allow for automatic deployments. Allows me to fetch resume and blog post data for my personal website. </span></p>
    </body>
 </html>
