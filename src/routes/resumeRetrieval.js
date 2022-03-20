@@ -1,9 +1,11 @@
 import express from "express";
 
-import { sendResume } from "../middleware/sendResume.js";
+import { sendHtmlStringResume } from "../middleware/sendHtmlStringResume.js";
+import { sendPdfResume } from "../middleware/sendPdfResume.js";
 
 const router = express.Router();
 
-router.get("/resumeRetrieval", sendResume);
+router.get("/htmlStringResume", sendHtmlStringResume);
+router.get("/pdfResume", sendPdfResume);
 
 export const resumeRetrievalRouter = router;
